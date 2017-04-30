@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2112K
+D 600mA CMOS LDO Regulator with Enable, SOT-23-5
+$ENDCMP
+#
+$CMP AP2112M
+D 600mA CMOS LDO Regulator with Enable, SOIC-8
+$ENDCMP
+#
+$CMP AP2112R5
+D 600mA CMOS LDO Regulator with Enable, SOT-89-5
+$ENDCMP
+#
+$CMP AP2112R5A
+D 600mA CMOS LDO Regulator with Enable, SOT-89-5
+$ENDCMP
+#
+#End Doc Library
